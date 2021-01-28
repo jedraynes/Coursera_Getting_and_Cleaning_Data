@@ -10,7 +10,7 @@ The instructions are as follows:
 4. Appropriately labels the data set with descriptive variable names. 
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-The dataset required for this project can be found [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) and is originally sourced from [here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
+The dataset required for this project can be found [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) and is originally sourced from [here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones). For a description of the variables, see the original source link and the features_info.txt file within the UCI HAR Dataset folder in the repository.
 
 Thanks for reading! Feel free to check out my personal blog at [jedraynes.com](https://www.jedraynes.com). There, you can also find ways to contact me via a contact form or over LinkedIn.
 
