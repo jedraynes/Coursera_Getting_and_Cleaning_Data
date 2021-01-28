@@ -12,6 +12,6 @@ The instructions are as follows:
 
 The dataset required for this project can be found [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) and is originally sourced from [here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
 
-Thanks for reading! Feel free to check out my personal blog at [jedraynes.com](jedraynes.com). There, you can also find ways to contact me via a contact form or over LinkedIn.
+Thanks for reading! Feel free to check out my personal blog at [jedraynes.com](https://www.jedraynes.com). There, you can also find ways to contact me via a contact form or over LinkedIn.
 
 jedraynes
