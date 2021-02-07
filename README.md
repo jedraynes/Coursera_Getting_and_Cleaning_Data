@@ -1,5 +1,7 @@
-# Getting and Cleaning Data Week 4 Project
-27 January 2021
+# Getting and Cleaning Data
+
+
+**Project 1**
 
 The purpose of this project is to gather files and create two, tidy datasets. The first dataset is a merge of the training and testing data as provided in the course materials. In addition to merging, feature labels and a lookup to the activity labels (via a left join) were also added to get the final clean dataset for task 1: df_clean. The second dataset is the mean of each column, excluding the categorical activity label which can be found in the output: df_mean.
 
@@ -12,6 +14,7 @@ The instructions are as follows:
 
 The dataset required for this project can be found [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) and is originally sourced from [here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones). For a description of the variables, see the original source link and the features_info.txt file within the UCI HAR Dataset folder in the repository.
 
-Thanks for reading! Feel free to check out my personal blog at [jedraynes.com](https://www.jedraynes.com). There, you can also find ways to contact me via a contact form or over LinkedIn.
+---
+Feel free to check out my personal blog at [jedraynes.com](https://www.jedraynes.com). There, you can find ways to contact me via a contact form, or, over [LinkedIn](https://www.linkedin.com/in/jedraynes/).
 
 jedraynes
