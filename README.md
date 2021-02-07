@@ -1,5 +1,6 @@
 # Getting and Cleaning Data
 
+This respository is all files related to the Getting and Cleaning Data course within Coursera's Johns Hopkins Data Science Specialization. The files and quiz code for each week can be found within its respective folder. The course project is found within week 4 and the description of the project is outlined below.
 
 **Project 1**
 
